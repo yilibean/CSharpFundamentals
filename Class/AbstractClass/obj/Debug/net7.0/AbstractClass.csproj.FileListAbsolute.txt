@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/bin/Debug/net7.0/AbstractClass
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/bin/Debug/net7.0/AbstractClass.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/bin/Debug/net7.0/AbstractClass.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/bin/Debug/net7.0/AbstractClass.dll
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/bin/Debug/net7.0/AbstractClass.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.dll
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/refint/AbstractClass.dll
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/AbstractClass.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/AbstractClass/obj/Debug/net7.0/ref/AbstractClass.dll

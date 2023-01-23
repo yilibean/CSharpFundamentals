@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/bin/Debug/net7.0/ClassInheritance
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/bin/Debug/net7.0/ClassInheritance.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/bin/Debug/net7.0/ClassInheritance.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/bin/Debug/net7.0/ClassInheritance.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/bin/Debug/net7.0/ClassInheritance.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/refint/ClassInheritance.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ClassInheritance.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassInheritance/obj/Debug/net7.0/ref/ClassInheritance.dll

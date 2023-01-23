@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.deps.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/bin/Debug/net7.0/MulticastDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/refint/MulticastDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/MulticastDelegate.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/MulticastDelegate/obj/Debug/net7.0/ref/MulticastDelegate.dll

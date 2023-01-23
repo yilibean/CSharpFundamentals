@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/bin/Debug/net7.0/ClassAccessModifier
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/bin/Debug/net7.0/ClassAccessModifier.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/bin/Debug/net7.0/ClassAccessModifier.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/bin/Debug/net7.0/ClassAccessModifier.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/bin/Debug/net7.0/ClassAccessModifier.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/refint/ClassAccessModifier.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ClassAccessModifier.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassAccessModifier/obj/Debug/net7.0/ref/ClassAccessModifier.dll

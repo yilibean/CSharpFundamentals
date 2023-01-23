@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/bin/Debug/net7.0/Delegate
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/bin/Debug/net7.0/Delegate.deps.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/bin/Debug/net7.0/Delegate.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/bin/Debug/net7.0/Delegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/bin/Debug/net7.0/Delegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/refint/Delegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/Delegate.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/Delegate/obj/Debug/net7.0/ref/Delegate.dll

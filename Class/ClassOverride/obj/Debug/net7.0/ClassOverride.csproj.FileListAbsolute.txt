@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/bin/Debug/net7.0/ClassOverride
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/bin/Debug/net7.0/ClassOverride.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/bin/Debug/net7.0/ClassOverride.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/bin/Debug/net7.0/ClassOverride.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/bin/Debug/net7.0/ClassOverride.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/refint/ClassOverride.dll
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ClassOverride.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/ClassOverride/obj/Debug/net7.0/ref/ClassOverride.dll

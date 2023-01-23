@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/bin/Debug/net7.0/Interface
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/bin/Debug/net7.0/Interface.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Interface/obj/Debug/net7.0/ref/Interface.dll

@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/bin/Debug/net7.0/Enum
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/bin/Debug/net7.0/Enum.deps.json
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/bin/Debug/net7.0/Enum.dll
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.dll
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.pdb
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Enum/Enum/obj/Debug/net7.0/ref/Enum.dll

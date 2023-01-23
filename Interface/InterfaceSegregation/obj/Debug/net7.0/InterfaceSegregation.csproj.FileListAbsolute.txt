@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.deps.json
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.dll
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.pdb
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.dll
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/refint/InterfaceSegregation.dll
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.pdb
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Interface/InterfaceSegregation/obj/Debug/net7.0/ref/InterfaceSegregation.dll

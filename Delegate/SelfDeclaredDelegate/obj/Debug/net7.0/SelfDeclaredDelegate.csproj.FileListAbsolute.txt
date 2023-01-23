@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/bin/Debug/net7.0/SelfDeclaredDelegate
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/bin/Debug/net7.0/SelfDeclaredDelegate.deps.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/bin/Debug/net7.0/SelfDeclaredDelegate.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/bin/Debug/net7.0/SelfDeclaredDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/bin/Debug/net7.0/SelfDeclaredDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/refint/SelfDeclaredDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/SelfDeclaredDelegate.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Delegate/SelfDeclaredDelegate/obj/Debug/net7.0/ref/SelfDeclaredDelegate.dll

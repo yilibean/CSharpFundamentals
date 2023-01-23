@@ -1,0 +1,5 @@
+/Users/yingrui/Desktop/C_Sharp/Class/SealedClass/obj/Debug/net7.0/SealedClass.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/SealedClass/obj/Debug/net7.0/SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/SealedClass/obj/Debug/net7.0/SealedClass.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/SealedClass/obj/Debug/net7.0/SealedClass.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/SealedClass/obj/Debug/net7.0/SealedClass.csproj.CoreCompileInputs.cache

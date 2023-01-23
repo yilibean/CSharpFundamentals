@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/bin/Debug/net7.0/Struct
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/bin/Debug/net7.0/Struct.deps.json
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/bin/Debug/net7.0/Struct.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/bin/Debug/net7.0/Struct.dll
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/bin/Debug/net7.0/Struct.pdb
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.dll
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/refint/Struct.dll
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.pdb
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/Struct.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/EnumStruct/Struct/obj/Debug/net7.0/ref/Struct.dll

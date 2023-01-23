@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/bin/Debug/net7.0/GenericDelegate
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/bin/Debug/net7.0/GenericDelegate.deps.json
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/bin/Debug/net7.0/GenericDelegate.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/bin/Debug/net7.0/GenericDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/bin/Debug/net7.0/GenericDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/refint/GenericDelegate.dll
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.pdb
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/GenericDelegate.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Generic/GenericDelegate/obj/Debug/net7.0/ref/GenericDelegate.dll

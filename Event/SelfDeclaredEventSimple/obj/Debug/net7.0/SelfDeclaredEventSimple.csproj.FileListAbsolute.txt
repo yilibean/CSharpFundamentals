@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/bin/Debug/net7.0/SelfDeclaredEventSimple
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/bin/Debug/net7.0/SelfDeclaredEventSimple.deps.json
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/bin/Debug/net7.0/SelfDeclaredEventSimple.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/bin/Debug/net7.0/SelfDeclaredEventSimple.dll
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/bin/Debug/net7.0/SelfDeclaredEventSimple.pdb
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.dll
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/refint/SelfDeclaredEventSimple.dll
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.pdb
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/SelfDeclaredEventSimple.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Event/SelfDeclaredEventSimple/obj/Debug/net7.0/ref/SelfDeclaredEventSimple.dll

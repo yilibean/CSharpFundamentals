@@ -1,0 +1,15 @@
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.csproj.AssemblyReference.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.AssemblyInfoInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.AssemblyInfo.cs
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.csproj.CoreCompileInputs.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Class/bin/Debug/net7.0/Class
+/Users/yingrui/Desktop/C_Sharp/Class/Class/bin/Debug/net7.0/Class.deps.json
+/Users/yingrui/Desktop/C_Sharp/Class/Class/bin/Debug/net7.0/Class.runtimeconfig.json
+/Users/yingrui/Desktop/C_Sharp/Class/Class/bin/Debug/net7.0/Class.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Class/bin/Debug/net7.0/Class.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/refint/Class.dll
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.pdb
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/Class.genruntimeconfig.cache
+/Users/yingrui/Desktop/C_Sharp/Class/Class/obj/Debug/net7.0/ref/Class.dll
